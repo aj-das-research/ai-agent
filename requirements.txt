@@ -1,0 +1,6 @@
+requests
+together
+deep_translator
+python-dotenv
+cachetools
+ratelimit
